@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+package-danyakr/__init__.py
+package-danyakr/package-danyakr.py
+package_danyakr.egg-info/PKG-INFO
+package_danyakr.egg-info/SOURCES.txt
+package_danyakr.egg-info/dependency_links.txt
+package_danyakr.egg-info/requires.txt
+package_danyakr.egg-info/top_level.txt
